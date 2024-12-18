@@ -16,3 +16,7 @@ Start Umi-OCR and LibreTranslate, then make two clicks on the *.bat I gave you a
 You'll be able to set up shortcuts to use it with the keyboard, useful along with the overlay option, the important thing is that you don't minimize pyLibOCR but it can stay under the other programs.
 You can also use it just for translation with the re-translate button.
 It is the first version there is still some little problem now and then with the overlay but otherwise it is fine.
+### Here are some screenshots:
+![alt text](https://github.com/MoonDragon-MD/pyLibOCR/blob/main/img/Screenshot1.jpg?raw=true)
+![alt text](https://github.com/MoonDragon-MD/pyLibOCR/blob/main/img/Screenshot2.jpg?raw=true)
+![alt text](https://github.com/MoonDragon-MD/pyLibOCR/blob/main/img/Screenshot3.jpg?raw=true)
