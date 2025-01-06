@@ -2,9 +2,12 @@
 A GUI for Umi-OCR and translation with LibreTranslate complete with overlay, all strictly offline
 ### Requirements:
 - Python (I used 3.6.8)
-- pip install PySimpleGUI Pillow requests keyboard (Pillow is currently not used but is planned)
-  If you want the unsubscribed version of PySimpleGUI, use this command: python -m pip install PySimpleGUI==4.60.5.0
+-      pip install PySimpleGUI Pillow requests keyboard
+     (Pillow is currently not used but is planned)
+  If you want the unsubscribed version of PySimpleGUI, use this command:
+-      python -m pip install PySimpleGUI==4.60.5.0
 - [Umi-OCR]( https://github.com/hiroi-sora/Umi-OCR)
+  
 - - ##### LibreTranslate (Argos) [localhost:5000]
 [LibreTranslate on Docker](https://hub.docker.com/r/libretranslate/libretranslate)
 Or there are other ways:
