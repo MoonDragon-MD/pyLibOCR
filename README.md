@@ -1,5 +1,8 @@
 # pyLibOCR
 A GUI for Umi-OCR and translation with LibreTranslate complete with overlay, all strictly offline
+
+I have created a new version with more options but it is still in beta: [pyTranslateOCR]( https://github.com/MoonDragon-MD/pyTranslateOCR)
+
 ### Requirements:
 - Python (I used 3.6.8)
 -      pip install PySimpleGUI Pillow requests keyboard
